@@ -1,4 +1,4 @@
-# Homework_10
+
 
 Ex.1
 
